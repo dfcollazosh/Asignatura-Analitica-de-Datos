@@ -1,5 +1,7 @@
 **Nombre de la asignatura:** Analítica de Datos
+
 **Docente:** Diego F. Collazos H.
+
 **Contenido:**
   - **Capítulo 01:** Introducción
     * Introducción al análisis de datos
